@@ -1,0 +1,3 @@
+[submodule "paris.py"]
+	path = paris.py
+	url = https://github.com/noirbizarre/slides-paris.py.git
